@@ -1,1 +1,1 @@
-**bold** _Valmennus_
+_Valmennus_
